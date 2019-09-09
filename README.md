@@ -5,8 +5,8 @@ Conjunto de datos y scripts concernientes al trabajo de fin de máster de Sergio
 ## Organización del respositorio
 
 ### Resultados
- #### Tablas
  #### Figuras
+ #### Tablas
 ### Scripts
  #### hipathia
  #### Scripts propios
